@@ -1,0 +1,37 @@
+D:\Read and write file txt\Read and write file txt\bin\Debug\Read and write file txt.exe.config
+D:\Read and write file txt\Read and write file txt\bin\Debug\Read and write file txt.exe
+D:\Read and write file txt\Read and write file txt\bin\Debug\Read and write file txt.pdb
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read and write file txt.csprojAssemblyReference.cache
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form1.resources
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read_and_write_file_txt.Properties.Resources.resources
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read and write file txt.csproj.GenerateResource.cache
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read and write file txt.csproj.CoreCompileInputs.cache
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read and write file txt.exe
+D:\Read and write file txt\Read and write file txt\obj\Debug\Read and write file txt.pdb
+D:\Do an 1\Read and write file txt\obj\Debug\Read and write file txt.csprojAssemblyReference.cache
+D:\Do an 1\Read and write file txt\obj\Debug\Read_and_write_file_txt.Properties.Resources.resources
+D:\Do an 1\Read and write file txt\obj\Debug\Read and write file txt.csproj.GenerateResource.cache
+D:\Do an 1\Read and write file txt\obj\Debug\Read and write file txt.exe
+D:\Do an 1\Read and write file txt\obj\Debug\Read and write file txt.pdb
+D:\Do an 1\Read and write file txt\bin\Debug\Read and write file txt.exe.config
+D:\Do an 1\Read and write file txt\bin\Debug\Read and write file txt.exe
+D:\Do an 1\Read and write file txt\bin\Debug\Read and write file txt.pdb
+D:\Do an 1\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Main.resources
+D:\Do an 1\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Diemthi.resources
+D:\Do an 1\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Hientat.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\bin\Debug\Read and write file txt.exe.config
+D:\Do an 1\Do an 1.2\Read and write file txt\bin\Debug\Read and write file txt.exe
+D:\Do an 1\Do an 1.2\Read and write file txt\bin\Debug\Read and write file txt.pdb
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read and write file txt.csprojAssemblyReference.cache
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Properties.Resources.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read and write file txt.csproj.GenerateResource.cache
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read and write file txt.exe
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read and write file txt.pdb
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Danhsach.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Diemthi.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Chinhsach.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Xeploai.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_ChinhsuaTT.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Doituongduthi.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Baodiem.resources
+D:\Do an 1\Do an 1.2\Read and write file txt\obj\Debug\Read_and_write_file_txt.Form_Main.resources

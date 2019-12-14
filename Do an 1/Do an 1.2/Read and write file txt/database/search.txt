@@ -1,0 +1,2 @@
+SBD        Ho             Ten        Phai  NgaySinh       DTUT
+156        Nguyen Cong    Truong     0     11/08/1982     1

@@ -1,0 +1,18 @@
+SBD        Ho             Ten     Phai     NgaySinh      Toan         Van          AnhVan      TongDiem     XepLoai     DTDT
+155        Nguyen Kim     Loan    1        19/02/1981    7.00         5.50         3.50        18.00        Trượt       1  
+80         Dao Thi        Phuong  1        29/03/1982    3.50         4.00         5.50        15.00        Trượt       1  
+118        Tran My        Thanh   1        07/10/1981    4.00         4.00         4.50        14.50        Trượt       1  
+10         Tran Minh      Nguyet  1        07/12/1981    4.50         4.00         4.00        14.50        Trượt       1  
+145        Nguyen Thanh   Hai     0        07/12/1981    3.00         5.00         4.00        14.00        Trượt       1  
+2          Nguyen Thanh   Nhan    1        10/10/1999    3.00         3.00         3.00        11.00        Trượt       1  
+100        Tran Van       Viet    0        15/07/1982    6.50         5.00         3.00        15.50        Trượt       2  
+113        Vu Van         An      0        31/01/1982    6.00         3.00         5.00        15.00        Trượt       2  
+58         Diep Thuy      Phuong  1        13/12/1981    4.00         5.50         4.00        14.50        Trượt       2  
+93         Do Thi         Thao    1        18/10/1980    4.00         5.00         4.00        14.00        Trượt       2  
+40         Pham Thi       Thu     1        26/01/1982    4.00         4.00         4.00        13.00        Trượt       2  
+66         Nguyen Thi     Hanh    1        19/01/1981    7.00         5.00         3.00        15.00        Trượt       3  
+143        Ta Ngoc        Dieu    0        14/08/1981    3.50         5.50         6.00        15.00        Trượt       3  
+65         Nguyen Thi     Le      1        21/06/1982    4.00         6.00         4.50        14.50        Trượt       3  
+103        Huynh Van      Khoa    0        17/04/1981    6.50         4.00         4.00        14.50        Trượt       3  
+105        Huynh Thanh    Viet    0        02/02/1981    4.00         6.50         3.50        14.00        Trượt       3  
+94         Phan Thi       Anh     1        13/07/1981    6.00         4.50         3.00        13.50        Trượt       3  

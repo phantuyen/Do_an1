@@ -1,0 +1,468 @@
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 1                So Bao Danh: 2                So Bao Danh: 3                
+Anh: Nguyen Viet Hong         Chi: Nguyen Hong Lanh         Anh: Nguyen Minh Quang        
+Toan:    8.00                 Toan:    6.50                 Toan:    7.50                 
+Van:     5.00                 Van:     7.00                 Van:     6.50                 
+Anh van: 8.00                 Anh van: 5.00                 Anh van: 4.00                 
+Tong Diem: 21.00              Tong Diem: 20.50              Tong Diem: 18.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 4                So Bao Danh: 5                So Bao Danh: 6                
+Chi: Dinh Thi Tam             Chi: Nguyen Hoai Anh          Chi: Dang Bich Thuy           
+Toan:    5.00                 Toan:    6.50                 Toan:    10.00                
+Van:     8.50                 Van:     6.00                 Van:     9.00                 
+Anh van: 5.50                 Anh van: 6.00                 Anh van: 9.00                 
+Tong Diem: 21.00              Tong Diem: 18.50              Tong Diem: 30.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 7                So Bao Danh: 8                So Bao Danh: 9                
+Chi: Hoang Thanh Trang        Chi: Tran Cat Dung            Anh: Pham Hoai Bong           
+Toan:    7.00                 Toan:    10.00                Toan:    10.00                
+Van:     10.00                Van:     8.00                 Van:     8.50                 
+Anh van: 6.50                 Anh van: 9.00                 Anh van: 10.00                
+Tong Diem: 23.50              Tong Diem: 27.00              Tong Diem: 28.50              
+Xep Loai: Khá                 Xep Loai: Giỏi                Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 10               So Bao Danh: 11               So Bao Danh: 12               
+Chi: Tran Minh Nguyet         Chi: Ma Thi Hong Xuan         Chi: Le Thao Dung             
+Toan:    4.50                 Toan:    8.00                 Toan:    5.00                 
+Van:     4.00                 Van:     10.00                Van:     6.50                 
+Anh van: 4.00                 Anh van: 7.00                 Anh van: 5.50                 
+Tong Diem: 14.50              Tong Diem: 25.00              Tong Diem: 19.00              
+Xep Loai: Trượt               Xep Loai: Giỏi                Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 13               So Bao Danh: 14               So Bao Danh: 15               
+Chi: Luu Phuong Thanh         Anh: Phan Thanh               Chi: Pham Thu Thuy            
+Toan:    9.00                 Toan:    6.00                 Toan:    8.00                 
+Van:     6.00                 Van:     5.50                 Van:     6.50                 
+Anh van: 8.00                 Anh van: 8.00                 Anh van: 7.50                 
+Tong Diem: 25.00              Tong Diem: 21.50              Tong Diem: 24.00              
+Xep Loai: Khá                 Xep Loai: Trung bình          Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 16               So Bao Danh: 17               So Bao Danh: 18               
+Anh: Dang Dinh Tam            Anh: Tong Duc Cuong           Chi: Tran Thu Nga             
+Toan:    4.00                 Toan:    5.00                 Toan:    4.00                 
+Van:     6.00                 Van:     6.50                 Van:     6.50                 
+Anh van: 5.00                 Anh van: 4.00                 Anh van: 6.00                 
+Tong Diem: 17.00              Tong Diem: 17.50              Tong Diem: 18.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 19               So Bao Danh: 20               So Bao Danh: 21               
+Chi: Tran Thi Thanh Giang     Chi: Truong Thi My            Chi: Nguyen Thi Hoa           
+Toan:    4.00                 Toan:    5.00                 Toan:    10.00                
+Van:     6.00                 Van:     7.00                 Van:     8.00                 
+Anh van: 6.00                 Anh van: 7.00                 Anh van: 9.00                 
+Tong Diem: 18.00              Tong Diem: 21.00              Tong Diem: 29.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 22               So Bao Danh: 23               So Bao Danh: 24               
+Anh: Ha Son Tri               Chi: Tang My Hanh             Chi: Tran Thi Tam             
+Toan:    5.00                 Toan:    8.00                 Toan:    7.00                 
+Van:     8.00                 Van:     6.00                 Van:     5.00                 
+Anh van: 5.00                 Anh van: 7.00                 Anh van: 7.00                 
+Tong Diem: 20.00              Tong Diem: 23.00              Tong Diem: 21.00              
+Xep Loai: Trung bình          Xep Loai: Khá                 Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 25               So Bao Danh: 26               So Bao Danh: 27               
+Chi: Pham Thi Lua             Chi: Huynh Bach Cuc           Chi: Nguyen Thi Tuyet         
+Toan:    5.00                 Toan:    10.00                Toan:    8.00                 
+Van:     6.00                 Van:     8.50                 Van:     6.00                 
+Anh van: 6.00                 Anh van: 9.00                 Anh van: 9.00                 
+Tong Diem: 19.00              Tong Diem: 28.50              Tong Diem: 25.00              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 28               So Bao Danh: 29               So Bao Danh: 30               
+Chi: Vu Thi No                Chi: Tran My Dung             Anh: Truong Minh Thang        
+Toan:    6.00                 Toan:    6.00                 Toan:    6.00                 
+Van:     8.00                 Van:     5.00                 Van:     6.50                 
+Anh van: 4.00                 Anh van: 6.00                 Anh van: 6.00                 
+Tong Diem: 20.00              Tong Diem: 18.00              Tong Diem: 19.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 31               So Bao Danh: 32               So Bao Danh: 33               
+Chi: Le Kim Thoa              Chi: Huynh Thanh Nga          Chi: Tran Thi Loan            
+Toan:    7.00                 Toan:    6.00                 Toan:    6.50                 
+Van:     5.50                 Van:     6.00                 Van:     6.50                 
+Anh van: 5.00                 Anh van: 4.50                 Anh van: 6.00                 
+Tong Diem: 19.50              Tong Diem: 17.50              Tong Diem: 21.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 34               So Bao Danh: 35               So Bao Danh: 36               
+Chi: Tran Thi Nhi             Anh: Lam Ngoc Quan            Chi: Nguyen Ngoc Bich         
+Toan:    5.00                 Toan:    10.00                Toan:    6.00                 
+Van:     8.00                 Van:     8.00                 Van:     6.00                 
+Anh van: 5.00                 Anh van: 9.00                 Anh van: 6.50                 
+Tong Diem: 20.00              Tong Diem: 28.00              Tong Diem: 20.50              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 37               So Bao Danh: 38               So Bao Danh: 39               
+Chi: Vuong Kim Anh            Chi: Nguyen Thu Van           Chi: Phan Mai Phuong          
+Toan:    7.00                 Toan:    6.50                 Toan:    8.00                 
+Van:     5.00                 Van:     5.50                 Van:     6.00                 
+Anh van: 5.50                 Anh van: 5.00                 Anh van: 8.00                 
+Tong Diem: 18.50              Tong Diem: 19.00              Tong Diem: 24.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 40               So Bao Danh: 41               So Bao Danh: 42               
+Chi: Pham Thi Thu             Chi: Nguyen Thi Dung          Chi: Doan Thuy Trang          
+Toan:    4.00                 Toan:    5.00                 Toan:    5.50                 
+Van:     4.00                 Van:     7.00                 Van:     6.50                 
+Anh van: 4.00                 Anh van: 7.00                 Anh van: 8.00                 
+Tong Diem: 13.00              Tong Diem: 21.00              Tong Diem: 21.00              
+Xep Loai: Trượt               Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 43               So Bao Danh: 44               So Bao Danh: 45               
+Anh: Hoang Van Hoa            Anh: Nguyen Van Tien          Chi: Du Thi Lieu Dung         
+Toan:    9.00                 Toan:    6.00                 Toan:    8.00                 
+Van:     7.00                 Van:     6.00                 Van:     5.00                 
+Anh van: 10.00                Anh van: 9.00                 Anh van: 7.00                 
+Tong Diem: 27.00              Tong Diem: 23.00              Tong Diem: 21.00              
+Xep Loai: Giỏi                Xep Loai: Khá                 Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 46               So Bao Danh: 47               So Bao Danh: 48               
+Chi: Vu Kieu Oanh             Anh: Nguyen Trong Nghiep      Chi: Nguyen Thuy Huong        
+Toan:    5.50                 Toan:    9.50                 Toan:    10.00                
+Van:     5.00                 Van:     8.00                 Van:     8.00                 
+Anh van: 4.00                 Anh van: 10.00                Anh van: 10.00                
+Tong Diem: 15.50              Tong Diem: 28.50              Tong Diem: 30.00              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 49               So Bao Danh: 50               So Bao Danh: 51               
+Anh: Bui Van Hung             Anh: Ly Cong Duy              Chi: Le Thi Ly                
+Toan:    6.00                 Toan:    10.00                Toan:    8.00                 
+Van:     7.00                 Van:     8.50                 Van:     6.00                 
+Anh van: 5.50                 Anh van: 9.50                 Anh van: 9.00                 
+Tong Diem: 20.50              Tong Diem: 29.00              Tong Diem: 24.00              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 52               So Bao Danh: 53               So Bao Danh: 54               
+Chi: Nguyen Lien Phuong       Chi: Hoang Thi Thuan          Chi: To Phuong Lan            
+Toan:    4.50                 Toan:    9.00                 Toan:    6.50                 
+Van:     5.50                 Van:     8.50                 Van:     6.50                 
+Anh van: 5.00                 Anh van: 10.00                Anh van: 4.00                 
+Tong Diem: 17.00              Tong Diem: 28.50              Tong Diem: 19.00              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 55               So Bao Danh: 56               So Bao Danh: 57               
+Chi: Tran Thi Phuong          Chi: Nguyen Dong Lan          Anh: Nguyen Van Toan          
+Toan:    7.50                 Toan:    7.00                 Toan:    9.00                 
+Van:     4.50                 Van:     5.50                 Van:     6.00                 
+Anh van: 6.00                 Anh van: 8.00                 Anh van: 6.50                 
+Tong Diem: 19.00              Tong Diem: 21.50              Tong Diem: 23.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 58               So Bao Danh: 59               So Bao Danh: 60               
+Chi: Diep Thuy Phuong         Chi: Dao Thi Tue              Chi: Tran Thi Phan            
+Toan:    4.00                 Toan:    10.00                Toan:    5.50                 
+Van:     5.50                 Van:     8.50                 Van:     6.00                 
+Anh van: 4.00                 Anh van: 9.00                 Anh van: 5.50                 
+Tong Diem: 14.50              Tong Diem: 29.50              Tong Diem: 18.00              
+Xep Loai: Trượt               Xep Loai: Giỏi                Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 61               So Bao Danh: 62               So Bao Danh: 63               
+Chi: Tran Thi Thuy            Chi: Nguyen Mong Kieu         Chi: Duong Thi Tuoi           
+Toan:    5.00                 Toan:    6.50                 Toan:    10.00                
+Van:     5.00                 Van:     4.00                 Van:     6.00                 
+Anh van: 6.00                 Anh van: 5.50                 Anh van: 7.00                 
+Tong Diem: 16.00              Tong Diem: 17.00              Tong Diem: 23.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 64               So Bao Danh: 65               So Bao Danh: 66               
+Chi: Nguyen Thi Thuy          Chi: Nguyen Thi Le            Chi: Nguyen Thi Hanh          
+Toan:    6.00                 Toan:    4.00                 Toan:    7.00                 
+Van:     5.00                 Van:     6.00                 Van:     5.00                 
+Anh van: 6.00                 Anh van: 4.50                 Anh van: 3.00                 
+Tong Diem: 18.00              Tong Diem: 14.50              Tong Diem: 15.00              
+Xep Loai: Trung bình          Xep Loai: Trượt               Xep Loai: Trượt               
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 67               So Bao Danh: 68               So Bao Danh: 69               
+Anh: Nguyen Van Tam           Anh: Lam Ngoc Phuoc           Chi: Phan Kim Nga             
+Toan:    10.00                Toan:    8.00                 Toan:    9.00                 
+Van:     9.00                 Van:     4.00                 Van:     8.00                 
+Anh van: 10.00                Anh van: 5.00                 Anh van: 8.00                 
+Tong Diem: 29.00              Tong Diem: 19.00              Tong Diem: 25.00              
+Xep Loai: Giỏi                Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 70               So Bao Danh: 71               So Bao Danh: 72               
+Chi: Huynh Thi Huong          Chi: Nguyen Thu Ha            Anh: Nguyen Van Dung          
+Toan:    5.50                 Toan:    5.00                 Toan:    6.50                 
+Van:     5.50                 Van:     9.00                 Van:     5.00                 
+Anh van: 7.50                 Anh van: 7.00                 Anh van: 8.00                 
+Tong Diem: 20.50              Tong Diem: 23.00              Tong Diem: 19.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 73               So Bao Danh: 74               So Bao Danh: 75               
+Chi: Tran Tham Tuoi           Anh: Duong Cong Bang          Anh: Le Trung Kien            
+Toan:    6.00                 Toan:    10.00                Toan:    8.50                 
+Van:     7.50                 Van:     6.00                 Van:     6.50                 
+Anh van: 8.00                 Anh van: 8.00                 Anh van: 6.00                 
+Tong Diem: 23.50              Tong Diem: 26.00              Tong Diem: 23.00              
+Xep Loai: Khá                 Xep Loai: Khá                 Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 76               So Bao Danh: 77               So Bao Danh: 78               
+Anh: Nguyen Van Nghiep        Anh: Nguyen Van Minh          Anh: Ho Duong Thanh           
+Toan:    8.00                 Toan:    8.00                 Toan:    4.50                 
+Van:     7.00                 Van:     7.50                 Van:     6.50                 
+Anh van: 8.50                 Anh van: 9.00                 Anh van: 4.00                 
+Tong Diem: 25.50              Tong Diem: 26.50              Tong Diem: 17.00              
+Xep Loai: Giỏi                Xep Loai: Giỏi                Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 79               So Bao Danh: 80               So Bao Danh: 81               
+Chi: Quach Kieu Mai           Chi: Dao Thi Phuong           Chi: Tran Thi Ngoc Han        
+Toan:    10.00                Toan:    3.50                 Toan:    6.00                 
+Van:     9.00                 Van:     4.00                 Van:     6.50                 
+Anh van: 10.00                Anh van: 5.50                 Anh van: 4.50                 
+Tong Diem: 31.00              Tong Diem: 15.00              Tong Diem: 17.00              
+Xep Loai: Giỏi                Xep Loai: Trượt               Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 82               So Bao Danh: 83               So Bao Danh: 84               
+Chi: Tran Tuyet Anh           Chi: Nguyen Cam Huong         Chi: Nguyen Ngoc Suong        
+Toan:    8.00                 Toan:    5.00                 Toan:    10.00                
+Van:     6.00                 Van:     8.50                 Van:     7.00                 
+Anh van: 4.00                 Anh van: 5.00                 Anh van: 9.00                 
+Tong Diem: 19.00              Tong Diem: 18.50              Tong Diem: 26.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 85               So Bao Danh: 86               So Bao Danh: 87               
+Anh: Nguyen Van Loi           Anh: Nguyen Duc Thang         Chi: Bui Thi Hue              
+Toan:    7.00                 Toan:    5.50                 Toan:    8.00                 
+Van:     7.00                 Van:     6.50                 Van:     4.50                 
+Anh van: 10.00                Anh van: 6.50                 Anh van: 8.00                 
+Tong Diem: 26.00              Tong Diem: 20.50              Tong Diem: 22.50              
+Xep Loai: Giỏi                Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 88               So Bao Danh: 89               So Bao Danh: 90               
+Chi: Pham Thi Mai             Chi: Nguyen Thi Huong         Anh: Pham Van Trang           
+Toan:    5.00                 Toan:    4.50                 Toan:    4.50                 
+Van:     5.50                 Van:     6.00                 Van:     6.50                 
+Anh van: 6.00                 Anh van: 5.00                 Anh van: 4.50                 
+Tong Diem: 18.50              Tong Diem: 17.50              Tong Diem: 17.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 91               So Bao Danh: 92               So Bao Danh: 93               
+Chi: Tran Thuy Tien           Anh: Nguyen Minh Dan          Chi: Do Thi Thao              
+Toan:    6.00                 Toan:    6.00                 Toan:    4.00                 
+Van:     5.00                 Van:     5.50                 Van:     5.00                 
+Anh van: 6.50                 Anh van: 6.50                 Anh van: 4.00                 
+Tong Diem: 18.50              Tong Diem: 18.00              Tong Diem: 14.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trượt               
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 94               So Bao Danh: 95               So Bao Danh: 96               
+Chi: Phan Thi Anh             Chi: Dang Kim Anh             Anh: Le Tien Dat              
+Toan:    6.00                 Toan:    5.00                 Toan:    6.00                 
+Van:     4.50                 Van:     5.50                 Van:     6.50                 
+Anh van: 3.00                 Anh van: 6.00                 Anh van: 5.50                 
+Tong Diem: 13.50              Tong Diem: 17.50              Tong Diem: 18.00              
+Xep Loai: Trượt               Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 97               So Bao Danh: 98               So Bao Danh: 99               
+Chi: Pham Hong Tuyet          Chi: Pham Thi Chien           Chi: Nguyen Thi Binh          
+Toan:    8.00                 Toan:    7.00                 Toan:    8.00                 
+Van:     6.00                 Van:     6.00                 Van:     7.00                 
+Anh van: 7.00                 Anh van: 6.00                 Anh van: 7.00                 
+Tong Diem: 22.00              Tong Diem: 19.00              Tong Diem: 23.00              
+Xep Loai: Khá                 Xep Loai: Trung bình          Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 100              So Bao Danh: 101              So Bao Danh: 102              
+Anh: Tran Van Viet            Anh: Nguyen Bui Hoa           Chi: Ho Cam Ly                
+Toan:    6.50                 Toan:    7.00                 Toan:    7.00                 
+Van:     5.00                 Van:     7.00                 Van:     6.50                 
+Anh van: 3.00                 Anh van: 8.50                 Anh van: 6.00                 
+Tong Diem: 15.50              Tong Diem: 22.50              Tong Diem: 20.50              
+Xep Loai: Trượt               Xep Loai: Khá                 Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 103              So Bao Danh: 104              So Bao Danh: 105              
+Anh: Huynh Van Khoa           Chi: Huynh Minh Hieu          Anh: Huynh Thanh Viet         
+Toan:    6.50                 Toan:    6.50                 Toan:    4.00                 
+Van:     4.00                 Van:     7.00                 Van:     6.50                 
+Anh van: 4.00                 Anh van: 6.50                 Anh van: 3.50                 
+Tong Diem: 14.50              Tong Diem: 21.00              Tong Diem: 14.00              
+Xep Loai: Trượt               Xep Loai: Khá                 Xep Loai: Trượt               
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 106              So Bao Danh: 107              So Bao Danh: 108              
+Chi: Le Hong Nhung            Chi: Nguyen Thi Van           Anh: Tran Van Quang           
+Toan:    5.00                 Toan:    5.40                 Toan:    5.00                 
+Van:     6.00                 Van:     5.70                 Van:     5.00                 
+Anh van: 6.00                 Anh van: 4.90                 Anh van: 4.50                 
+Tong Diem: 18.00              Tong Diem: 16.00              Tong Diem: 15.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 109              So Bao Danh: 110              So Bao Danh: 111              
+Anh: Dang Minh Quan           Anh: Le Thanh Khoa            Anh: Nguyen Tan Tai           
+Toan:    7.00                 Toan:    5.00                 Toan:    8.00                 
+Van:     7.00                 Van:     6.80                 Van:     7.00                 
+Anh van: 8.00                 Anh van: 5.20                 Anh van: 8.00                 
+Tong Diem: 24.00              Tong Diem: 18.00              Tong Diem: 24.00              
+Xep Loai: Giỏi                Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 112              So Bao Danh: 113              So Bao Danh: 114              
+Chi: Do Thi Thuy              Anh: Vu Van An                Anh: Nguyen Van Thanh         
+Toan:    5.50                 Toan:    6.00                 Toan:    10.00                
+Van:     5.50                 Van:     3.00                 Van:     10.00                
+Anh van: 7.50                 Anh van: 5.00                 Anh van: 10.00                
+Tong Diem: 19.50              Tong Diem: 15.00              Tong Diem: 32.00              
+Xep Loai: Trung bình          Xep Loai: Trượt               Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 115              So Bao Danh: 116              So Bao Danh: 117              
+Anh: Bui Van Thanh            Anh: Do Phuong Nam            Chi: Truong Kieu Oanh         
+Toan:    5.50                 Toan:    7.50                 Toan:    10.00                
+Van:     7.00                 Van:     7.00                 Van:     9.00                 
+Anh van: 5.50                 Anh van: 10.00                Anh van: 9.50                 
+Tong Diem: 19.00              Tong Diem: 26.50              Tong Diem: 29.50              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 118              So Bao Danh: 119              So Bao Danh: 120              
+Chi: Tran My Thanh            Anh: Pham Van Hoang           Chi: Nguyen Thi Nhung         
+Toan:    4.00                 Toan:    4.50                 Toan:    5.00                 
+Van:     4.00                 Van:     5.50                 Van:     6.00                 
+Anh van: 4.50                 Anh van: 6.50                 Anh van: 6.00                 
+Tong Diem: 14.50              Tong Diem: 18.50              Tong Diem: 18.00              
+Xep Loai: Trượt               Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 121              So Bao Danh: 122              So Bao Danh: 123              
+Chi: Nguyen Thi Lan           Chi: Nguyen Hong Hoa          Anh: Tran van Phuong          
+Toan:    10.00                Toan:    6.50                 Toan:    4.00                 
+Van:     8.50                 Van:     6.50                 Van:     7.50                 
+Anh van: 9.00                 Anh van: 6.00                 Anh van: 5.50                 
+Tong Diem: 28.50              Tong Diem: 21.00              Tong Diem: 18.00              
+Xep Loai: Giỏi                Xep Loai: Khá                 Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 124              So Bao Danh: 125              So Bao Danh: 126              
+Anh: Tran Van Minh            Anh: Vo Quoc Vuong            Anh: Nguyen Thanh Trung       
+Toan:    5.50                 Toan:    9.00                 Toan:    4.50                 
+Van:     5.00                 Van:     7.00                 Van:     6.50                 
+Anh van: 5.00                 Anh van: 8.00                 Anh van: 4.50                 
+Tong Diem: 17.50              Tong Diem: 25.00              Tong Diem: 17.50              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 127              So Bao Danh: 128              So Bao Danh: 129              
+Chi: Nguyen Thi Thao          Chi: Vo Kim Yen               Anh: Tran Van Son             
+Toan:    5.50                 Toan:    7.00                 Toan:    8.00                 
+Van:     4.00                 Van:     4.00                 Van:     5.00                 
+Anh van: 5.50                 Anh van: 8.00                 Anh van: 5.50                 
+Tong Diem: 17.00              Tong Diem: 20.00              Tong Diem: 19.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 130              So Bao Danh: 131              So Bao Danh: 132              
+Anh: Nguyen Van Hai           Anh: Nguyen Thanh Lam         Chi: Pham Lan Anh             
+Toan:    5.00                 Toan:    4.00                 Toan:    4.50                 
+Van:     5.00                 Van:     4.00                 Van:     4.50                 
+Anh van: 5.00                 Anh van: 5.50                 Anh van: 6.50                 
+Tong Diem: 16.00              Tong Diem: 15.50              Tong Diem: 16.50              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 133              So Bao Danh: 134              So Bao Danh: 135              
+Anh: Nguyen Van Doan          Chi: Le Hong Hoa              Anh: Nguyen Van Ngan          
+Toan:    9.00                 Toan:    10.00                Toan:    10.00                
+Van:     8.00                 Van:     8.00                 Van:     8.50                 
+Anh van: 7.50                 Anh van: 9.00                 Anh van: 9.00                 
+Tong Diem: 26.50              Tong Diem: 28.00              Tong Diem: 29.50              
+Xep Loai: Giỏi                Xep Loai: Giỏi                Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 136              So Bao Danh: 137              So Bao Danh: 138              
+Anh: Pham Hong Chung          Chi: Nguyen Hong Hoa          Chi: Le Hong Hanh             
+Toan:    6.00                 Toan:    5.00                 Toan:    6.00                 
+Van:     4.00                 Van:     6.00                 Van:     5.50                 
+Anh van: 5.00                 Anh van: 5.50                 Anh van: 6.50                 
+Tong Diem: 16.00              Tong Diem: 18.50              Tong Diem: 20.00              
+Xep Loai: Trung bình          Xep Loai: Trung bình          Xep Loai: Trung bình          
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 139              So Bao Danh: 140              So Bao Danh: 141              
+Chi: Le Anh Thu               Chi: Tran Le Nga              Chi: Nguyen Thi Huong         
+Toan:    6.50                 Toan:    6.50                 Toan:    9.00                 
+Van:     9.00                 Van:     5.50                 Van:     7.00                 
+Anh van: 6.50                 Anh van: 6.50                 Anh van: 8.00                 
+Tong Diem: 24.00              Tong Diem: 20.50              Tong Diem: 24.00              
+Xep Loai: Khá                 Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 142              So Bao Danh: 143              So Bao Danh: 144              
+Anh: Vuong Cong Hon           Anh: Ta Ngoc Dieu             Anh: Nguyen Duc Hien          
+Toan:    6.00                 Toan:    3.50                 Toan:    9.00                 
+Van:     7.00                 Van:     5.50                 Van:     6.00                 
+Anh van: 5.00                 Anh van: 6.00                 Anh van: 8.00                 
+Tong Diem: 18.00              Tong Diem: 15.00              Tong Diem: 23.00              
+Xep Loai: Trung bình          Xep Loai: Trượt               Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 145              So Bao Danh: 146              So Bao Danh: 147              
+Anh: Nguyen Thanh Hai         Anh: Dao Thanh Xuan           Chi: Mai Ngoc Bich            
+Toan:    3.00                 Toan:    5.00                 Toan:    10.00                
+Van:     5.00                 Van:     6.50                 Van:     8.00                 
+Anh van: 4.00                 Anh van: 6.50                 Anh van: 10.00                
+Tong Diem: 14.00              Tong Diem: 19.00              Tong Diem: 30.00              
+Xep Loai: Trượt               Xep Loai: Trung bình          Xep Loai: Giỏi                
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 148              So Bao Danh: 149              So Bao Danh: 150              
+Chi: Pham Thu Han             Anh: Phan Huy Hung            Anh: Nguyen Phuoc Lam         
+Toan:    9.50                 Toan:    9.00                 Toan:    8.00                 
+Van:     8.50                 Van:     8.50                 Van:     9.00                 
+Anh van: 9.00                 Anh van: 10.00                Anh van: 6.00                 
+Tong Diem: 28.00              Tong Diem: 29.50              Tong Diem: 24.00              
+Xep Loai: Giỏi                Xep Loai: Giỏi                Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 151              So Bao Danh: 152              So Bao Danh: 153              
+Anh: Dao Minh Than            Anh: Le Van Dung              Anh: Tran Viet Hong           
+Toan:    5.00                 Toan:    10.00                Toan:    7.50                 
+Van:     5.00                 Van:     7.00                 Van:     6.00                 
+Anh van: 6.00                 Anh van: 7.00                 Anh van: 8.00                 
+Tong Diem: 18.00              Tong Diem: 25.00              Tong Diem: 23.50              
+Xep Loai: Trung bình          Xep Loai: Giỏi                Xep Loai: Khá                 
+                                                                                          
+GIAY BAO DIEM                 GIAY BAO DIEM                 GIAY BAO DIEM                 
+So Bao Danh: 154              So Bao Danh: 155              So Bao Danh: 156              
+Anh: Nguyen Thanh Hao         Chi: Nguyen Kim Loan          Anh: Nguyen Cong Truong       
+Toan:    4.00                 Toan:    7.00                 Toan:    4.00                 
+Van:     5.50                 Van:     5.50                 Van:     7.50                 
+Anh van: 7.00                 Anh van: 3.50                 Anh van: 5.00                 
+Tong Diem: 17.50              Tong Diem: 18.00              Tong Diem: 18.50              
+Xep Loai: Trung bình          Xep Loai: Trượt               Xep Loai: Trung bình          
+                                                                                          

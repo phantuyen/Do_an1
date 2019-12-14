@@ -1,0 +1,31 @@
+SBD        Ho             Ten     Phai     NgaySinh      Toan         Van          AnhVan      TongDiem     XepLoai     DTDT
+74         Duong Cong     Bang    0        27/06/1981    10.00        6.00         8.00        26.00        Khá         1  
+63         Duong Thi      Tuoi    1        24/12/1981    10.00        6.00         7.00        23.00        Khá         3  
+7          Hoang Thanh    Trang   1        12/08/1982    7.00         10.00        6.50        23.50        Khá         3  
+9          Pham Hoai      Bong    0        11/10/1980    10.00        8.50         10.00       28.50        Giỏi        3  
+43         Hoang Van      Hoa     0        10/01/1982    9.00         7.00         10.00       27.00        Giỏi        2  
+47         Nguyen Trong   Nghiep  0        20/07/1981    9.50         8.00         10.00       28.50        Giỏi        2  
+48         Nguyen Thuy    Huong   1        14/12/1981    10.00        8.00         10.00       30.00        Giỏi        1  
+53         Hoang Thi      Thuan   1        25/10/1981    9.00         8.50         10.00       28.50        Giỏi        2  
+67         Nguyen Van     Tam     0        02/07/1982    10.00        9.00         10.00       29.00        Giỏi        3  
+79         Quach Kieu     Mai     1        17/02/1982    10.00        9.00         10.00       31.00        Giỏi        1  
+85         Nguyen Van     Loi     0        02/02/1982    7.00         7.00         10.00       26.00        Giỏi        1  
+114        Nguyen Van     Thanh   0        13/11/1981    10.00        10.00        10.00       32.00        Giỏi        1  
+116        Do Phuong      Nam     0        01/01/1982    7.50         7.00         10.00       26.50        Giỏi        1  
+147        Mai Ngoc       Bich    1        08/10/1981    10.00        8.00         10.00       30.00        Giỏi        1  
+149        Phan Huy       Hung    0        03/02/1981    9.00         8.50         10.00       29.50        Giỏi        1  
+158        Phan           Tuyen   1        25/02/1999    10.00        10.00        10.00       32.00        Giỏi        1  
+117        Truong Kieu    Oanh    1        14/09/1982    10.00        9.00         9.50        29.50        Giỏi        2  
+50         Ly Cong        Duy     0        14/02/1982    10.00        8.50         9.50        29.00        Giỏi        2  
+21         Nguyen Thi     Hoa     1        27/11/1982    10.00        8.00         9.00        29.00        Giỏi        1  
+26         Huynh Bach     Cuc     1        21/09/1980    10.00        8.50         9.00        28.50        Giỏi        2  
+35         Lam Ngoc       Quan    0        28/08/1981    10.00        8.00         9.00        28.00        Giỏi        2  
+59         Dao Thi        Tue     1        23/12/1982    10.00        8.50         9.00        29.50        Giỏi        1  
+121        Nguyen Thi     Lan     1        12/11/1980    10.00        8.50         9.00        28.50        Giỏi        2  
+134        Le Hong        Hoa     1        16/12/1981    10.00        8.00         9.00        28.00        Giỏi        2  
+135        Nguyen Van     Ngan    0        06/08/1981    10.00        8.50         9.00        29.50        Giỏi        1  
+8          Tran Cat       Dung    1        04/12/1981    10.00        8.00         9.00        27.00        Giỏi        3  
+6          Dang Bich      Thuy    1        22/10/1982    10.00        9.00         9.00        30.00        Giỏi        1  
+84         Nguyen Ngoc    Suong   1        11/09/1981    10.00        7.00         9.00        26.00        Giỏi        3  
+152        Le Van         Dung    0        03/12/1981    10.00        7.00         7.00        25.00        Giỏi        2  
+11         Ma Thi Hong    Xuan    1        19/10/1981    8.00         10.00        7.00        25.00        Giỏi        3  
